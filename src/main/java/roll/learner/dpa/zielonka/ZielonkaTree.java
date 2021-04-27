@@ -12,10 +12,6 @@ package roll.learner.dpa.zielonka;
 import java.util.ArrayList;
 import java.util.List;
  
-
-
-
-
 public class ZielonkaTree {
 
 	// input F, S(parent)
